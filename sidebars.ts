@@ -14,17 +14,36 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
  */
 const sidebars: SidebarsConfig = {
   tutorialSidebar: [
-    'intro',
-    'about',
     'overview',
+    'about',
     'getting-started-detailed',
-    'concepts',
-    'cli',
-    'configurations',
-    'membership-change',
-    'metrics',
+    {
+      type: 'category',
+      label: 'Concepts',
+      items: ['concepts', 'snapshot', 'membership-change'],
+    },
+    {
+      type: 'category',
+      label: 'Features',
+      items: [
+        'cli',
+        'features/read-after-write',
+        'features/leader-lease',
+        'features/listeners',
+        'features/unordered-async-read',
+        'features/linearizable-read',
+        'features/rolling-upgrade-rollback',
+        'features/ratis-streaming',
+        'features/leader-election-priority',
+        'features/pre-vote',
+      ],
+    },
     'security',
-    'snapshot',
+    {
+      type: 'category',
+      label: 'References',
+      items: ['configurations', 'metrics'],
+    },
     {
       type: 'category',
       label: 'Contributors',
