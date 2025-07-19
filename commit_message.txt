@@ -1,0 +1,14 @@
+feat: Initialize Docusaurus site for Apache Ratis
+
+This commit initializes the Docusaurus site for Apache Ratis, migrating content and configurations from the old site.
+
+Key changes include:
+- Docusaurus site initialization with TypeScript.
+- Updated `docusaurus.config.ts` with Apache Ratis specific information (title, tagline, URLs, ASF links).
+- Migrated and updated the "Community" page.
+- Migrated and updated the "Getting Started" page, including correct links to examples and Maven Central.
+- Migrated and updated the "Downloads" page with correct binary download links.
+- Updated the homepage background color and introductory text.
+- Replaced the default Docusaurus logo with the Apache Ratis logo.
+- Migrated all old blog posts to the Docusaurus blog structure and added truncation markers.
+- Removed default Docusaurus blog posts.

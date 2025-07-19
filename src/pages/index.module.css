@@ -11,6 +11,10 @@
   background-color: rgb(72, 145, 217);
 }
 
+.heroBanner p {
+  font-size: 1.5em; /* Increased font size */
+}
+
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
@@ -21,4 +25,12 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.container h2 {
+  font-size: 2.5em; /* Increased font size for the heading */
+}
+
+.container p {
+  font-size: 1.5em; /* Increased font size for the intro text */
 }
