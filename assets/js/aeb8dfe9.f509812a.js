@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkratis_tmp=self.webpackChunkratis_tmp||[]).push([[6291],{1958:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/ratis-site/blog/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":20,"previousPage":"/ratis-site/blog","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
