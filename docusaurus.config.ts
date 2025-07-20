@@ -88,6 +88,7 @@ const config: Config = {
         {to: '/downloads', label: 'Downloads', position: 'left'},
         {to: '/blog', label: 'Blog', position: 'left'},
         {to: '/community', label: 'Community', position: 'left'},
+        {to: '/resources', label: 'Resources', position: 'left'},
         {
           href: 'https://www.apache.org/',
           label: 'Apache Software Foundation',
