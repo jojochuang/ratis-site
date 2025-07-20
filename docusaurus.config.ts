@@ -80,10 +80,9 @@ const config: Config = {
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          to: '/docs/overview',
           position: 'left',
-          label: 'Documentation',
+          label: 'Overview',
         },
         {to: '/downloads', label: 'Downloads', position: 'left'},
         {to: '/blog', label: 'Blog', position: 'left'},
@@ -117,16 +116,16 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/apache-ratis',
-            },
-            {
               label: 'Mailing Lists',
-              href: 'https://ratis.apache.org/mailing-lists.html',
+              href: '/community#mailing-lists',
             },
             {
               label: 'Slack',
-              href: 'https://the-asf.slack.com/archives/C01U6RE02R2',
+              href: 'https://the-asf.slack.com/archives/CD4QREQD7',
+            },
+            {
+              label: 'Jira',
+              href: 'https://issues.apache.org/jira/projects/RATIS/',
             },
           ],
         },
