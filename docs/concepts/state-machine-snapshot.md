@@ -1,8 +1,8 @@
 ---
-title: Snapshot Guide
+title: State Machine Snapshot
 ---
 
-# Snapshot Guide
+# State Machine Snapshot
 
 ## Overview
 
