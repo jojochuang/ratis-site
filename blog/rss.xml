@@ -160,7 +160,7 @@ shutdown of RaftServerProxy by JVMPauseMonitor. (#950)</li>
 <li>RATIS-1860. Add ratis-shell cmd to generate a new raft-meta.conf. (#901)</li>
 </ul>
 <h1>Improvements &amp; Bug Fixes</h1>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="streaming--netty">Streaming &amp; Netty<a href="https://ratis.apache.org/ratis-site/blog/2023/11/21/3.0.0#streaming--netty" class="hash-link" aria-label="Direct link to Streaming &amp; Netty" title="Direct link to Streaming &amp; Netty">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_Bens" id="streaming--netty">Streaming &amp; Netty<a href="https://ratis.apache.org/ratis-site/blog/2023/11/21/3.0.0#streaming--netty" class="hash-link" aria-label="Direct link to Streaming &amp; Netty" title="Direct link to Streaming &amp; Netty">​</a></h2>
 <ul>
 <li>RATIS-1550. Rewrite stream client reply queue. (#740)</li>
 <li>RATIS-1847. Stream has memory leak. (#884)</li>
@@ -177,7 +177,7 @@ RoutingTable are equal (#945)</li>
 <li>RATIS-1923. Netty: atomic operations require side-effect-free
 functions. (#956)</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="read-index">Read Index<a href="https://ratis.apache.org/ratis-site/blog/2023/11/21/3.0.0#read-index" class="hash-link" aria-label="Direct link to Read Index" title="Direct link to Read Index">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_Bens" id="read-index">Read Index<a href="https://ratis.apache.org/ratis-site/blog/2023/11/21/3.0.0#read-index" class="hash-link" aria-label="Direct link to Read Index" title="Direct link to Read Index">​</a></h2>
 <ul>
 <li>RATIS-1856. Notify apply index change of all RaftLog entries (#893)</li>
 <li>RATIS-1895. IllegalStateException: Failed to updateIncreasingly for
@@ -187,7 +187,7 @@ changing (#895)</li>
 <li>RATIS-1888. Handle exception of readIndexAsync in gRPC readIndex impl (#920)</li>
 <li>RATIS-1927. Use double check to eliminate data race in ReadRequests. (#958)</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="raftserver">RaftServer<a href="https://ratis.apache.org/ratis-site/blog/2023/11/21/3.0.0#raftserver" class="hash-link" aria-label="Direct link to RaftServer" title="Direct link to RaftServer">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_Bens" id="raftserver">RaftServer<a href="https://ratis.apache.org/ratis-site/blog/2023/11/21/3.0.0#raftserver" class="hash-link" aria-label="Direct link to RaftServer" title="Direct link to RaftServer">​</a></h2>
 <ul>
 <li>RATIS-1924. Increase the default of raft.server.log.segment.size.max. (#957)</li>
 <li>RATIS-1892. Unify the lifetime of the RaftServerProxy thread pool (#923)</li>
@@ -199,7 +199,7 @@ InstallSnapshotReplyProto. (#933)</li>
 <li>RATIS-1912. Fix infinity election when perform membership change. (#954)</li>
 <li>RATIS-1858. Follower keeps logging first election timeout. (#894)</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="appendentries--grpclogappender">AppendEntries &amp; GrpcLogAppender<a href="https://ratis.apache.org/ratis-site/blog/2023/11/21/3.0.0#appendentries--grpclogappender" class="hash-link" aria-label="Direct link to AppendEntries &amp; GrpcLogAppender" title="Direct link to AppendEntries &amp; GrpcLogAppender">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_Bens" id="appendentries--grpclogappender">AppendEntries &amp; GrpcLogAppender<a href="https://ratis.apache.org/ratis-site/blog/2023/11/21/3.0.0#appendentries--grpclogappender" class="hash-link" aria-label="Direct link to AppendEntries &amp; GrpcLogAppender" title="Direct link to AppendEntries &amp; GrpcLogAppender">​</a></h2>
 <ul>
 <li>RATIS-1804. Change the default number of outstanding append entries. (#838)</li>
 <li>RATIS-1883. Next Index should be always larger than Match Index in
@@ -212,7 +212,7 @@ Client. (#939)</li>
 <li>RATIS-1928. Join the LogAppenders when closing the server. (#959)</li>
 <li>RATIS-1705. Fix metrics leak (#744)</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="raftlog--raftlog-cache">RaftLog &amp; RaftLog Cache<a href="https://ratis.apache.org/ratis-site/blog/2023/11/21/3.0.0#raftlog--raftlog-cache" class="hash-link" aria-label="Direct link to RaftLog &amp; RaftLog Cache" title="Direct link to RaftLog &amp; RaftLog Cache">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_Bens" id="raftlog--raftlog-cache">RaftLog &amp; RaftLog Cache<a href="https://ratis.apache.org/ratis-site/blog/2023/11/21/3.0.0#raftlog--raftlog-cache" class="hash-link" aria-label="Direct link to RaftLog &amp; RaftLog Cache" title="Direct link to RaftLog &amp; RaftLog Cache">​</a></h2>
 <ul>
 <li>RATIS-1887. Gap between segement log (#919)</li>
 <li>RATIS-1890. SegmentedRaftLogCache#shouldEvict should only iterate
@@ -223,7 +223,7 @@ checkAndEvictCache. (#924)</li>
 <li>RATIS-872. Invalidate replied calls in retry cache. (#942)</li>
 <li>RATIS-1916. OrderAsync does not call handReply. (#948)</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="common-utilities">Common Utilities<a href="https://ratis.apache.org/ratis-site/blog/2023/11/21/3.0.0#common-utilities" class="hash-link" aria-label="Direct link to Common Utilities" title="Direct link to Common Utilities">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_Bens" id="common-utilities">Common Utilities<a href="https://ratis.apache.org/ratis-site/blog/2023/11/21/3.0.0#common-utilities" class="hash-link" aria-label="Direct link to Common Utilities" title="Direct link to Common Utilities">​</a></h2>
 <ul>
 <li>RATIS-1932. Create zero-copy Marshaller. (#962)</li>
 <li>RATIS-1910. Deduplicate RaftGroupId and ClientId. (#940)</li>
