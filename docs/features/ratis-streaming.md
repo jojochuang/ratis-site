@@ -4,7 +4,7 @@ title: Ratis Streaming
 
 # Ratis Streaming
 
-For information on how to configure Ratis Streaming, please see the [Streaming Configuration](../tutorial/streaming-configuration.md) tutorial.
+For information on how to configure Ratis Streaming, please see the [Streaming Configuration](../developer-guide/streaming-configuration.md) tutorial.
 
 Ratis Streaming is a feature designed to optimize the handling of client requests in a Raft cluster, addressing limitations of the traditional star topology where all client requests are sent directly to the Leader.
 
@@ -67,5 +67,5 @@ Netty is chosen for the initial Streaming implementation due to its superior per
 
 ## References
 
-*   [Streaming Configuration](../tutorial/streaming-configuration.md)
+*   [Streaming Configuration](../developer-guide/streaming-configuration.md)
 *   [RATIS-979](https://issues.apache.org/jira/browse/RATIS-979)
