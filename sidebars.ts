@@ -20,7 +20,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'Concepts',
-      items: ['concepts', 'concepts/raft-log', 'concepts/state-machine-snapshot'],
+      items: ['concepts', 'concepts/raft-log', 'concepts/state-machine-snapshot', 'concepts/statemachine-storage', 'concepts/log-appender'],
     },
     {
       type: 'category',
@@ -38,6 +38,7 @@ const sidebars: SidebarsConfig = {
         'features/pre-vote',
         'features/observability',
         'tools',
+        'features/no-leader-mode',
       ],
     },
     {

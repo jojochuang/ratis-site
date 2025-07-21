@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ratis.apache.org/ratis-site/blog</id>
+    <title>Apache Ratis Blog</title>
+    <updated>2025-01-16T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ratis.apache.org/ratis-site/blog"/>
+    <subtitle>Apache Ratis Blog</subtitle>
+    <icon>https://ratis.apache.org/ratis-site/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Release 3.1.3 is available]]></title>
+        <id>https://ratis.apache.org/ratis-site/blog/2025/01/16/3.1.3</id>
+        <link href="https://ratis.apache.org/ratis-site/blog/2025/01/16/3.1.3"/>
+        <updated>2025-01-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Licensed under the Apache License, Version 2.0 (the "License");]]></summary>
+        <content type="html"><![CDATA[<p>Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+<a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank" rel="noopener noreferrer">http://www.apache.org/licenses/LICENSE-2.0</a>
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License. See accompanying LICENSE file.
+--&gt;</p>
+<p><a href="https://ratis.apache.org/downloads.html" target="_blank" rel="noopener noreferrer">Download</a></p>
+<p>This is a maintenance release with multiple improvements and bugfixes.
+See the <a href="https://github.com/apache/ratis/compare/ratis-3.1.2...ratis-3.1.3" target="_blank" rel="noopener noreferrer">changes between 3.1.2 and 3.1.3</a> releases.</p>
+<p>It has been tested with <a href="https://ozone.apache.org/" target="_blank" rel="noopener noreferrer">Apache Ozone</a>, <a href="https://iotdb.apache.org/" target="_blank" rel="noopener noreferrer">Apache IoTDB</a>.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release 3.1.2 is available]]></title>
+        <id>https://ratis.apache.org/ratis-site/blog/2024/11/13/3.1.2</id>
+        <link href="https://ratis.apache.org/ratis-site/blog/2024/11/13/3.1.2"/>
+        <updated>2024-11-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<!---]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://ratis.apache.org/downloads.html" target="_blank" rel="noopener noreferrer">Download</a></p>
+<p>This is a maintenance release with multiple improvements and bugfixes.
+See the <a href="https://github.com/apache/ratis/compare/ratis-3.1.1...ratis-3.1.2" target="_blank" rel="noopener noreferrer">changes between 3.1.1 and 3.1.2</a> releases.</p>
+<p>It has been tested with <a href="https://ozone.apache.org/" target="_blank" rel="noopener noreferrer">Apache Ozone</a>, <a href="https://iotdb.apache.org/" target="_blank" rel="noopener noreferrer">Apache IoTDB</a>.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release 3.1.1 is available]]></title>
+        <id>https://ratis.apache.org/ratis-site/blog/2024/09/26/3.1.1</id>
+        <link href="https://ratis.apache.org/ratis-site/blog/2024/09/26/3.1.1"/>
+        <updated>2024-09-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<!---]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://ratis.apache.org/downloads.html" target="_blank" rel="noopener noreferrer">Download</a></p>
+<p>This is a maintenance release with multiple improvements and bugfixes.
+See the <a href="https://github.com/apache/ratis/compare/ratis-3.1.0...ratis-3.1.1" target="_blank" rel="noopener noreferrer">changes between 3.1.0 and 3.1.1</a> releases.</p>
+<p>It has been tested with <a href="https://ozone.apache.org/" target="_blank" rel="noopener noreferrer">Apache Ozone</a>, <a href="https://iotdb.apache.org/" target="_blank" rel="noopener noreferrer">Apache IoTDB</a> and <a href="https://celeborn.apache.org/" target="_blank" rel="noopener noreferrer">Apache Celeborn</a>.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release 3.1.0 is available]]></title>
+        <id>https://ratis.apache.org/ratis-site/blog/2024/06/29/3.1.0</id>
+        <link href="https://ratis.apache.org/ratis-site/blog/2024/06/29/3.1.0"/>
+        <updated>2024-06-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<!---]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://ratis.apache.org/downloads.html" target="_blank" rel="noopener noreferrer">Download</a></p>
+<p>This is a minor release with multiple improvements and bugfixes.
+See the <a href="https://github.com/apache/ratis/compare/ratis-3.0.1...ratis-3.1.0" target="_blank" rel="noopener noreferrer">changes between 3.0.1 and 3.1.0</a> releases.</p>
+<p>It has been tested with <a href="https://ozone.apache.org/" target="_blank" rel="noopener noreferrer">Apache Ozone</a> and <a href="https://iotdb.apache.org/" target="_blank" rel="noopener noreferrer">Apache IoTDB</a>,
+where Apache Ratis is used to replicate raw data and to provide high availability.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release 3.0.1 is available]]></title>
+        <id>https://ratis.apache.org/ratis-site/blog/2024/01/09/3.0.1</id>
+        <link href="https://ratis.apache.org/ratis-site/blog/2024/01/09/3.0.1"/>
+        <updated>2024-01-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<!---]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://ratis.apache.org/downloads.html" target="_blank" rel="noopener noreferrer">Download</a></p>
+<p>This is a bugfix release.  See the <a href="https://github.com/apache/ratis/compare/ratis-3.0.0...ratis-3.0.1" target="_blank" rel="noopener noreferrer">changes between 3.0.0 and 3.0.1</a> releases.</p>
+<p>It has been tested with <a href="https://ozone.apache.org/" target="_blank" rel="noopener noreferrer">Apache Ozone</a> and <a href="https://iotdb.apache.org/" target="_blank" rel="noopener noreferrer">Apache IoTDB</a>,
+where Apache Ratis is used to replicate raw data and to provide high availability.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release 3.0.0 is available]]></title>
+        <id>https://ratis.apache.org/ratis-site/blog/2023/11/21/3.0.0</id>
+        <link href="https://ratis.apache.org/ratis-site/blog/2023/11/21/3.0.0"/>
+        <updated>2023-11-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<!---]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://ratis.apache.org/downloads.html" target="_blank" rel="noopener noreferrer">Download</a></p>
+<p>This is a major new version that contains 100 improvements and bug fixes. It introduces new features like pluggable metrics and lease read, etc.
+See the changes between 2.5.1 and 3.0.0 releases as below:</p>
+<p>Change list of ratis 3.0.0
+In total, there are roughly 100 commits diffing from 2.5.1</p>
+<ul>
+<li>
+<p>RaftStorage Auto-Format</p>
+</li>
+<li>
+<p>RATIS-1677. Do not auto format RaftStorage in RECOVER. (#718)</p>
+</li>
+<li>
+<p>RATIS-1694. Fix the compatibility issue of RATIS-1677. (#731)</p>
+</li>
+<li>
+<p>RATIS-1871. Auto format RaftStorage when there is only one
+directory configured. (#903)</p>
+</li>
+<li>
+<p>Pluggable Ratis-Metrics (RATIS-1688)</p>
+</li>
+<li>
+<p>RATIS-1689. Remove the use of the thirdparty Gauge. (#728)</p>
+</li>
+<li>
+<p>RATIS-1692. Remove the use of the thirdparty Counter. (#732)</p>
+</li>
+<li>
+<p>RATIS-1693. Remove the use of the thirdparty Timer. (#734)</p>
+</li>
+<li>
+<p>RATIS-1703. Move MetricsReporting and JvmMetrics to impl. (#741)</p>
+</li>
+<li>
+<p>RATIS-1704. Fix SuppressWarnings("VisibilityModifier") in
+RatisMetrics. (#742)</p>
+</li>
+<li>
+<p>RATIS-1710. Refactor metrics api and implementation to separated
+modules. (#749)</p>
+</li>
+<li>
+<p>RATIS-1712. Add a dropwizard 3 implementation of ratis-metrics-api. (#751)</p>
+</li>
+<li>
+<p>RATIS-1391. Update library dropwizard.metrics version to 4.x (#632)</p>
+</li>
+<li>
+<p>RATIS-1601. Use the shaded dropwizard metrics and remove the
+dependency (#671)</p>
+</li>
+<li>
+<p>Streaming Protocol Change</p>
+</li>
+<li>
+<p>RATIS-1569. Move the asyncRpcApi.sendForward(..) call to the
+client side. (#635)</p>
+</li>
+</ul>
+<h1>New Features</h1>
+<ul>
+<li>Leader Lease (RATIS-1864)</li>
+<li>RATIS-1865. Add leader lease bound ratio configuration (#897)</li>
+<li>RATIS-1866. Maintain leader lease after AppendEntries (#898)</li>
+<li>RATIS-1894. Implement ReadOnly based on leader lease (#925)</li>
+<li>RATIS-1882. Support read-after-write consistency (#913)</li>
+<li>StateMachine API</li>
+<li>RATIS-1874. Add notifyLeaderReady function in IStateMachine (#906)</li>
+<li>RATIS-1897. Make TransactionContext available in DataApi.write(..). (#930)</li>
+<li>New Configuration Properties</li>
+<li>RATIS-1862. Add the parameter whether to take Snapshot when
+stopping to adapt to different services (#896)</li>
+<li>RATIS-1930. Add a conf for enable/disable majority-add. (#961)</li>
+<li>RATIS-1918. Introduces parameters that separately control the
+shutdown of RaftServerProxy by JVMPauseMonitor. (#950)</li>
+<li>RATIS-1636. Support re-config ratis properties (#800)</li>
+<li>RATIS-1860. Add ratis-shell cmd to generate a new raft-meta.conf. (#901)</li>
+</ul>
+<h1>Improvements &amp; Bug Fixes</h1>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="streaming--netty">Streaming &amp; Netty<a href="https://ratis.apache.org/ratis-site/blog/2023/11/21/3.0.0#streaming--netty" class="hash-link" aria-label="Direct link to Streaming &amp; Netty" title="Direct link to Streaming &amp; Netty">​</a></h2>
+<ul>
+<li>RATIS-1550. Rewrite stream client reply queue. (#740)</li>
+<li>RATIS-1847. Stream has memory leak. (#884)</li>
+<li>RATIS-1850. When the stream server side receives a disconnection,
+memory is cleared (#887)</li>
+<li>RATIS-1853. When the stream server channelInactive, all requests in
+the channel. (#889)</li>
+<li>RATIS-1880. Optimize Stream client&amp;server side channel pipeline Create (#910)</li>
+<li>RATIS-1898. Netty should use EpollEventLoopGroup by default (#931)</li>
+<li>RATIS-1899. Use EpollEventLoopGroup for Netty Proxies (#932)</li>
+<li>RATIS-1913. Assert that the primary peers in DataStreamClient and
+RoutingTable are equal (#945)</li>
+<li>RATIS-1921. Shared worker group in WorkerGroupGetter should be closed. (#955)</li>
+<li>RATIS-1923. Netty: atomic operations require side-effect-free
+functions. (#956)</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="read-index">Read Index<a href="https://ratis.apache.org/ratis-site/blog/2023/11/21/3.0.0#read-index" class="hash-link" aria-label="Direct link to Read Index" title="Direct link to Read Index">​</a></h2>
+<ul>
+<li>RATIS-1856. Notify apply index change of all RaftLog entries (#893)</li>
+<li>RATIS-1895. IllegalStateException: Failed to updateIncreasingly for
+nextIndex. (#926)</li>
+<li>RATIS-1861. NullPointerException in readAsync when Ratis leader is
+changing (#895)</li>
+<li>RATIS-1888. Handle exception of readIndexAsync in gRPC readIndex impl (#920)</li>
+<li>RATIS-1927. Use double check to eliminate data race in ReadRequests. (#958)</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="raftserver">RaftServer<a href="https://ratis.apache.org/ratis-site/blog/2023/11/21/3.0.0#raftserver" class="hash-link" aria-label="Direct link to RaftServer" title="Direct link to RaftServer">​</a></h2>
+<ul>
+<li>RATIS-1924. Increase the default of raft.server.log.segment.size.max. (#957)</li>
+<li>RATIS-1892. Unify the lifetime of the RaftServerProxy thread pool (#923)</li>
+<li>RATIS-1889. NoSuchMethodError:
+RaftServerMetricsImpl.addNumPendingRequestsGauge #922 (#922)</li>
+<li>RATIS-761. Handle writeStateMachineData failure in leader. (#927)</li>
+<li>RATIS-1902. The snapshot index is set incorrectly in
+InstallSnapshotReplyProto. (#933)</li>
+<li>RATIS-1912. Fix infinity election when perform membership change. (#954)</li>
+<li>RATIS-1858. Follower keeps logging first election timeout. (#894)</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="appendentries--grpclogappender">AppendEntries &amp; GrpcLogAppender<a href="https://ratis.apache.org/ratis-site/blog/2023/11/21/3.0.0#appendentries--grpclogappender" class="hash-link" aria-label="Direct link to AppendEntries &amp; GrpcLogAppender" title="Direct link to AppendEntries &amp; GrpcLogAppender">​</a></h2>
+<ul>
+<li>RATIS-1804. Change the default number of outstanding append entries. (#838)</li>
+<li>RATIS-1883. Next Index should be always larger than Match Index in
+GrpcLogAppender (#914)</li>
+<li>RATIS-1886. AppendLog sleep fixed time cause significant drop in
+write throughput. (#929)</li>
+<li>RATIS-1909. Fix Decreasing Next Index When GrpcLogAppender Reset
+Client. (#939)</li>
+<li>RATIS-1920. NPE in AppendLogResponseHandler. (#952)</li>
+<li>RATIS-1928. Join the LogAppenders when closing the server. (#959)</li>
+<li>RATIS-1705. Fix metrics leak (#744)</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="raftlog--raftlog-cache">RaftLog &amp; RaftLog Cache<a href="https://ratis.apache.org/ratis-site/blog/2023/11/21/3.0.0#raftlog--raftlog-cache" class="hash-link" aria-label="Direct link to RaftLog &amp; RaftLog Cache" title="Direct link to RaftLog &amp; RaftLog Cache">​</a></h2>
+<ul>
+<li>RATIS-1887. Gap between segement log (#919)</li>
+<li>RATIS-1890. SegmentedRaftLogCache#shouldEvict should only iterate
+over closed segments once (#921)</li>
+<li>RATIS-1893. In SegmentedRaftLogCache, start a daemon thread to
+checkAndEvictCache. (#924)</li>
+<li>RATIS-1884. Fix retry cache warning condition (#915)</li>
+<li>RATIS-872. Invalidate replied calls in retry cache. (#942)</li>
+<li>RATIS-1916. OrderAsync does not call handReply. (#948)</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="common-utilities">Common Utilities<a href="https://ratis.apache.org/ratis-site/blog/2023/11/21/3.0.0#common-utilities" class="hash-link" aria-label="Direct link to Common Utilities" title="Direct link to Common Utilities">​</a></h2>
+<ul>
+<li>RATIS-1932. Create zero-copy Marshaller. (#962)</li>
+<li>RATIS-1910. Deduplicate RaftGroupId and ClientId. (#940)</li>
+<li>RATIS-1867. To uniformly manage the timeout parameters for detecting
+gc. (#899)</li>
+</ul>
+<h1>Code Cleanup &amp; Refactoring</h1>
+<ul>
+<li>RATIS-1870. Refactor hasMajority code during configuration changes. (#902)</li>
+<li>RATIS-1848. Simplify PeerMap inheritance (#885)</li>
+<li>RATIS-1849. Remove unused getRaftClient (#886)</li>
+<li>RATIS-1854. Remove useless error logs when closing the ratisclient
+writing thread (#890)</li>
+<li>RATIS-1904. Refactor RaftServerImpl.submitClientRequestAsync(..). (#935)</li>
+</ul>
+<h1>Code Improvement</h1>
+<ul>
+<li>RATIS-1852. Fix trivial SonarLint complains (#888)</li>
+<li>RATIS-1855. Fix some sonar code smell and bugs in ratis-server (#892)</li>
+<li>RATIS-1903. Fix parameter number warning in RaftClientRequest. (#934)</li>
+<li>RATIS-1905. Fix some sonar lint complains (#936)</li>
+<li>RATIS-1915. Do not use FileInputStream/FileOutputStream in
+ratis-common. (#947)</li>
+<li>RATIS-1917. Print Epoll.unavailabilityCause() only once. (#949)</li>
+<li>RATIS-1919. Fix some sonar code smell and bugs in
+ratis-client/common/grpc (#951)</li>
+</ul>
+<h1>Documentations &amp; Examples</h1>
+<ul>
+<li>RATIS-1842. Fix typo of "configuraions.md" name in ratis-docs project (#880)</li>
+<li>RATIS-1843. Add existing markdown documents to site.xml in the
+ratis-docs project (#881)</li>
+<li>RATIS-1901. Update Counter example to benchmark performance. (#953)</li>
+<li>RATIS-1908. Keep configurations doc updated (#938)</li>
+<li>RATIS-1911. Add MembershipManager example. (#941)</li>
+</ul>
+<h1>Tests</h1>
+<ul>
+<li>RATIS-1828. Enable TestServerRestartWithNetty (#869)</li>
+<li>RATIS-1830. Intermittent failure in TestRetryPolicy (#871)</li>
+<li>RATIS-1832. Intermittent failure in TestStreamObserverWithTimeout (#873)</li>
+<li>RATIS-1833. Intermittent failure in
+TestRaftStateMachineExceptionWithSimulatedRpc (#874)</li>
+<li>RATIS-1599. Fix test failure from RATIS-1569. (#659)</li>
+</ul>
+<h1>Build &amp; Maven</h1>
+<ul>
+<li>RATIS-1829. Support magic links to PR and JIRA in IDEA (#870)</li>
+<li>RATIS-1878. checkstyle fails with UnsupportedClassVersionError. (#909)</li>
+<li>RATIS-1906. Bump copyright year to 2023 (#937)</li>
+<li>RATIS-1914. Bouncy Castle For Java LDAP injection vulnerability. (#944)</li>
+<li>RATIS-1929. Bump ratis-thirdparty version to 1.0.5 (#960)</li>
+</ul>
+<p>It has been tested with <a href="https://ozone.apache.org/" target="_blank" rel="noopener noreferrer">Apache Ozone</a>, <a href="https://iotdb.apache.org/" target="_blank" rel="noopener noreferrer">Apache IoTDB</a>, <a href="https://www.alluxio.io/" target="_blank" rel="noopener noreferrer">Alluxio</a>
+where Apache Ratis is used to replicate raw data and to provide high availability.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release 2.5.1 is available]]></title>
+        <id>https://ratis.apache.org/ratis-site/blog/2023/05/05/2.5.1</id>
+        <link href="https://ratis.apache.org/ratis-site/blog/2023/05/05/2.5.1"/>
+        <updated>2023-05-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<!---]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://ratis.apache.org/downloads.html" target="_blank" rel="noopener noreferrer">Download</a></p>
+<p>This is a bugfix release.  See the <a href="https://github.com/apache/ratis/compare/ratis-2.5.0...ratis-2.5.1" target="_blank" rel="noopener noreferrer">changes between 2.5.0 and 2.5.1</a> releases.</p>
+<p>It has been tested with <a href="https://ozone.apache.org/" target="_blank" rel="noopener noreferrer">Apache Ozone</a>, <a href="https://iotdb.apache.org/" target="_blank" rel="noopener noreferrer">Apache IoTDB</a>
+where Apache Ratis is used to replicate raw data and to provide high availability.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release 2.5.0 is available]]></title>
+        <id>https://ratis.apache.org/ratis-site/blog/2023/04/10/2.5.0</id>
+        <link href="https://ratis.apache.org/ratis-site/blog/2023/04/10/2.5.0"/>
+        <updated>2023-04-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<!---]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://ratis.apache.org/downloads.html" target="_blank" rel="noopener noreferrer">Download</a></p>
+<p>It contains improvements and bug fixes based on various Apache Ozone, Apache IoTDB and Alluxio use cases.
+See the <a href="https://github.com/apache/ratis/compare/ratis-2.4.1...ratis-2.5.0" target="_blank" rel="noopener noreferrer">changes between 2.4.1 and 2.5.0</a> releases.</p>
+<p>It has been tested with <a href="https://ozone.apache.org/" target="_blank" rel="noopener noreferrer">Apache Ozone</a>, <a href="https://iotdb.apache.org/" target="_blank" rel="noopener noreferrer">Apache IoTDB</a> and <a href="https://github.com/Alluxio/alluxio" target="_blank" rel="noopener noreferrer">Alluxio</a> where Apache Ratis is used to replicate raw data and to provide high availability.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release 2.4.1 is available]]></title>
+        <id>https://ratis.apache.org/ratis-site/blog/2022/11/26/2.4.1</id>
+        <link href="https://ratis.apache.org/ratis-site/blog/2022/11/26/2.4.1"/>
+        <updated>2022-11-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<!---]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://ratis.apache.org/downloads.html" target="_blank" rel="noopener noreferrer">Download</a></p>
+<p>It contains improvements and bug fixes based on various Apache Ozone, Apache IoTDB and Alluxio use cases.
+See the <a href="https://github.com/apache/ratis/compare/ratis-2.4.0...ratis-2.4.1" target="_blank" rel="noopener noreferrer">changes between 2.4.0 and 2.4.1</a> releases.</p>
+<p>It has been tested with <a href="https://ozone.apache.org/" target="_blank" rel="noopener noreferrer">Apache Ozone</a>, <a href="https://iotdb.apache.org/" target="_blank" rel="noopener noreferrer">Apache IoTDB</a> and <a href="https://github.com/Alluxio/alluxio" target="_blank" rel="noopener noreferrer">Alluxio</a>
+where Apache Ratis is used to replicate raw data and to provide high availability.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release 2.4.0 is available]]></title>
+        <id>https://ratis.apache.org/ratis-site/blog/2022/10/18/2.4.0</id>
+        <link href="https://ratis.apache.org/ratis-site/blog/2022/10/18/2.4.0"/>
+        <updated>2022-10-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<!---]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://ratis.apache.org/downloads.html" target="_blank" rel="noopener noreferrer">Download</a></p>
+<p>It contains improvements and bug fixes based on various Apache Ozone use cases.
+See the <a href="https://github.com/apache/ratis/compare/ratis-2.3.0...ratis-2.4.0" target="_blank" rel="noopener noreferrer">changes between 2.3.0 and 2.4.0</a> releases.</p>
+<p>It has been tested with <a href="https://ozone.apache.org/" target="_blank" rel="noopener noreferrer">Apache Ozone</a> where Apache Ratis is used to replicate raw data and to provide high availability.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release 2.3.0 is available]]></title>
+        <id>https://ratis.apache.org/ratis-site/blog/2022/05/19/2.3.0</id>
+        <link href="https://ratis.apache.org/ratis-site/blog/2022/05/19/2.3.0"/>
+        <updated>2022-05-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<!---]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://ratis.apache.org/downloads.html" target="_blank" rel="noopener noreferrer">Download</a></p>
+<p>It contains improvements and bug fixes based on various Apache Ozone use cases.
+See the <a href="https://github.com/apache/ratis/compare/ratis-2.2.0...ratis-2.3.0" target="_blank" rel="noopener noreferrer">changes between 2.2.0 and 2.3.0</a> releases.</p>
+<p>It has been tested with <a href="https://ozone.apache.org/" target="_blank" rel="noopener noreferrer">Apache Ozone</a> where Apache Ratis is used to replicate raw data and to provide high availability.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release 2.2.0 is available]]></title>
+        <id>https://ratis.apache.org/ratis-site/blog/2021/10/20/2.2.0</id>
+        <link href="https://ratis.apache.org/ratis-site/blog/2021/10/20/2.2.0"/>
+        <updated>2021-10-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<!---]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://ratis.apache.org/downloads.html" target="_blank" rel="noopener noreferrer">Download</a></p>
+<p>It contains improvements and bug fixes based on various Apache Ozone use cases.
+See the <a href="https://github.com/apache/ratis/compare/ratis-2.1.0...ratis-2.2.0" target="_blank" rel="noopener noreferrer">changes between 2.1.0 and 2.2.0</a> releases.</p>
+<p>It has been tested with <a href="https://ozone.apache.org/" target="_blank" rel="noopener noreferrer">Apache Ozone</a> where Apache Ratis is used to replicate raw data and to provide high availability.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release 2.1.0 is available]]></title>
+        <id>https://ratis.apache.org/ratis-site/blog/2021/07/19/2.1.0</id>
+        <link href="https://ratis.apache.org/ratis-site/blog/2021/07/19/2.1.0"/>
+        <updated>2021-07-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<!---]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://ratis.apache.org/downloads.html" target="_blank" rel="noopener noreferrer">Download</a></p>
+<p>It contains improvements and bug fixes based on various Apache Ozone use cases.
+See the <a href="https://github.com/apache/ratis/compare/ratis-2.0.0...ratis-2.1.0" target="_blank" rel="noopener noreferrer">changes between 2.0.0 and 2.1.0</a> releases.</p>
+<p>It has been tested with <a href="https://ozone.apache.org/" target="_blank" rel="noopener noreferrer">Apache Ozone</a> where Apache Ratis is used to replicate raw data and to provide high availability.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release 2.0.0 is available]]></title>
+        <id>https://ratis.apache.org/ratis-site/blog/2021/03/24/2.0.0</id>
+        <link href="https://ratis.apache.org/ratis-site/blog/2021/03/24/2.0.0"/>
+        <updated>2021-03-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<!---]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://ratis.apache.org/downloads.html" target="_blank" rel="noopener noreferrer">Download</a></p>
+<p>It contains around 260 improvements and bug fixes based on various Apache Ozone use cases.
+See the <a href="https://github.com/apache/ratis/compare/ratis-1.0.0...ratis-2.0.0" target="_blank" rel="noopener noreferrer">changes between 1.0.0 and 2.0.0</a> releases.</p>
+<p>It has been tested with <a href="https://ozone.apache.org/" target="_blank" rel="noopener noreferrer">Apache Ozone</a> where Apache Ratis is used to replicate raw data and to provide high availability.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GA Release 1.0.0 is available]]></title>
+        <id>https://ratis.apache.org/ratis-site/blog/2020/07/20/1.0.0</id>
+        <link href="https://ratis.apache.org/ratis-site/blog/2020/07/20/1.0.0"/>
+        <updated>2020-07-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<!---]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://ratis.apache.org/downloads.html" target="_blank" rel="noopener noreferrer">Download</a></p>
+<p>It contains around 119 improvements and bug fixes based on various Apache Ozone use cases.
+See the <a href="https://github.com/apache/ratis/compare/ratis-0.5.0-rc0...ratis-1.0.0" target="_blank" rel="noopener noreferrer">changes between 0.5.0 and 1.0.0</a> releases.</p>
+<p>It has been tested with <a href="https://ozone.apache.org/" target="_blank" rel="noopener noreferrer">Apache Ozone</a> where Apache Ratis is used to replicate raw data and to provide high availability.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release 0.5.0 is available]]></title>
+        <id>https://ratis.apache.org/ratis-site/blog/2020/02/04/0.5.0</id>
+        <link href="https://ratis.apache.org/ratis-site/blog/2020/02/04/0.5.0"/>
+        <updated>2020-02-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<!---]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://ratis.apache.org/downloads.html" target="_blank" rel="noopener noreferrer">Download</a></p>
+<p>It contains more than 94 improvements and bug fixes based on various Apache Ozone use cases.
+See the <a href="https://github.com/apache/ratis/compare/0.4.0-rc4...ratis-0.5.0-rc0" target="_blank" rel="noopener noreferrer">changes between 0.4.0 and 0.5.0</a> releases.</p>
+<p>It has been tested with <a href="https://ozone.apache.org/" target="_blank" rel="noopener noreferrer">Apache Ozone</a> where Apache Ratis is used to replicate raw data.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release 0.4.0 is available]]></title>
+        <id>https://ratis.apache.org/ratis-site/blog/2019/09/12/0.4.0</id>
+        <link href="https://ratis.apache.org/ratis-site/blog/2019/09/12/0.4.0"/>
+        <updated>2019-09-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<!---]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://ratis.apache.org/downloads.html" target="_blank" rel="noopener noreferrer">Download</a></p>
+<p>It contains more than 89 improvements and bug fixes based on various Apache Ozone use cases.
+See the <a href="https://github.com/apache/ratis/compare/ratis-0.3.0...0.4.0-rc4" target="_blank" rel="noopener noreferrer">changes between 0.3.0 and 0.4.0</a> releases.</p>
+<p>It has been tested with <a href="https://ozone.apache.org/" target="_blank" rel="noopener noreferrer">Apache Ozone</a> where Apache Ratis is used to replicate raw data.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release 0.3.0 is available]]></title>
+        <id>https://ratis.apache.org/ratis-site/blog/2019/04/21/0.3.0</id>
+        <link href="https://ratis.apache.org/ratis-site/blog/2019/04/21/0.3.0"/>
+        <updated>2019-04-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<!---]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://ratis.apache.org/downloads.html" target="_blank" rel="noopener noreferrer">Download</a></p>
+<p>It contains new features such as multi-raft and watch request, as well contains 73 improvements and 72 bug fixes.
+See the <a href="https://github.com/apache/ratis/compare/ratis-0.2.0...ratis-0.3.0" target="_blank" rel="noopener noreferrer">changes between 0.2.0 and 0.3.0</a> releases.</p>
+<p>It has been tested with <a href="https://ozone.apache.org/" target="_blank" rel="noopener noreferrer">Apache Ozone</a> where Apache Ratis is used to replicate raw data.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release 0.2.0 is available]]></title>
+        <id>https://ratis.apache.org/ratis-site/blog/2018/07/15/0.2.0</id>
+        <link href="https://ratis.apache.org/ratis-site/blog/2018/07/15/0.2.0"/>
+        <updated>2018-07-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<!---]]></summary>
+        <content type="html"><![CDATA[<p>0.2.0 is the second Apache release and the first release which provides binary release with example Raft applications.</p>
+<p>It contains more than 130 bug fixes and features since the previous release.</p>
+<p>This version also heavily tested with <a href="https://ozone.apache.org/" target="_blank" rel="noopener noreferrer">Apache Ozone</a> where Apache Ratis is used to replicate raw Hadoop data.</p>
+<p>The release is available from the downloaded section or (as Ratis is a java library) from the Apache and Maven central maven repositories.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release 0.1.0-alpha is available]]></title>
+        <id>https://ratis.apache.org/ratis-site/blog/2017/05/02/0.1.0-alpha</id>
+        <link href="https://ratis.apache.org/ratis-site/blog/2017/05/02/0.1.0-alpha"/>
+        <updated>2017-05-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<!---]]></summary>
+        <content type="html"><![CDATA[<p>This is the first incubator release of Apache Ratis.</p>
+<p>Key features:</p>
+<ul>
+<li>Pluggable transports (Hadoop Rpc, GRpc, Netty)</li>
+<li>Pluggable statemachine</li>
+<li>Pluggable raft log implementation.</li>
+</ul>]]></content>
+    </entry>
+</feed>

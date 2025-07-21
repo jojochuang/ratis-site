@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkratis_tmp=self.webpackChunkratis_tmp||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/ratis-site/blog","blogTitle":"Blog","authorsListPath":"/ratis-site/blog/authors"}')}}]);
